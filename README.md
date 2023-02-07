@@ -1,1 +1,2 @@
 # future_project_aggie_train_detection
+This Project will be something I will try to work on in the near future. My goal for this project is to create an application that will notify users when the train will be passing Texas A&M campus. Hopefully the notification will come ahead of time to allow students to accomidate their time of travel to where they need to go. The implementation may include a software that checks train schedules or have a physical train detection that will relay information to the applicaiton.
